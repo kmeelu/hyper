@@ -300,6 +300,7 @@
     "electron-builder": "21.2.0",
     "electron-builder-squirrel-windows": "21.2.0",
     "electron-devtools-installer": "2.2.4",
+    "electron-react-devtools": "^0.5.3",
     "electron-rebuild": "1.8.6",
     "eslint": "6.5.1",
     "eslint-config-prettier": "6.4.0",
